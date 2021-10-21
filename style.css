@@ -14,3 +14,11 @@
     padding: 10px 20px;
     border-radius: 10px;
 }
+#valied{
+    color: red;
+    visibility: hidden;
+}
+#invalied{
+    color: red;
+    visibility: hidden;
+}
